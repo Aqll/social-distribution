@@ -1,11 +1,8 @@
 Dependencies
 ============
 
-To install packages others have added:
+To install required packages:
 `python -m pip install -r requirements.txt`
-
-To add packages you have installed:
-`python -m pip freeze > requirements.txt`
 
 **NOTE:** Adding packages while not in a virtual environment will add **all** packages installed on your computer.
 
